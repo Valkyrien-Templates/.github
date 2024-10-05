@@ -5,7 +5,7 @@ I kind of hate having to repeatedly gut Eureka. Which is why I made the original
 So I am starting fresh and gutting other addons for their setups and turning them into Templates!
 
 **1.18.2 Templates:**
-- [ ] 1.18.2 Forge/Fabric Kotlin
+- [X] 1.18.2 Forge/Fabric Kotlin
 - [ ] 1.18.2 Forge/Fabric Java
 - [ ] 1.18.2 Forge-Only Kotlin
 - [ ] 1.18.2 Forge-Only Java
