@@ -6,7 +6,7 @@ So I am starting fresh and gutting other addons for their setups and turning the
 
 **1.18.2 Templates:**
 - [X] 1.18.2 Forge/Fabric Kotlin
-- [ ] 1.18.2 Forge/Fabric Java
+- [X] 1.18.2 Forge/Fabric Java
 - [ ] 1.18.2 Forge-Only Kotlin
 - [ ] 1.18.2 Forge-Only Java
 - [ ] 1.18.2 Fabric-Only Kotlin
