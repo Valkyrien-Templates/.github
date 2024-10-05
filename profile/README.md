@@ -21,7 +21,7 @@ So I am starting fresh and gutting other addons for their setups and turning the
 - [ ] 1.19.2 Fabric-Only Java
 
 **1.20.1 Templates:**
-- [ ] 1.20.1 Forge/Fabric Kotlin
+- [X] 1.20.1 Forge/Fabric Kotlin (Thanks illuc)
 - [ ] 1.20.1 Forge/Fabric Java
 - [ ] 1.20.1 Forge-Only Kotlin
 - [ ] 1.20.1 Forge-Only Java
