@@ -24,6 +24,6 @@ So I am starting fresh and gutting other addons for their setups and turning the
 - [X] 1.20.1 Forge/Fabric Kotlin (Thanks illuc)
 - [ ] 1.20.1 Forge/Fabric Java
 - [X] 1.20.1 Forge-Only Kotlin
-- [ ] 1.20.1 Forge-Only Java
+- [X] 1.20.1 Forge-Only Java
 - [ ] 1.20.1 Fabric-Only Kotlin
 - [ ] 1.20.1 Fabric-Only Java
