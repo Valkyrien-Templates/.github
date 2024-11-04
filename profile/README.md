@@ -4,7 +4,7 @@
 I kind of hate having to repeatedly gut Eureka. Which is why I made the original VS Addon Template repository, but that was terribly made.
 So I am starting fresh and gutting other addons for their setups and turning them into Templates!
 
-If you are looking for documentation on utilizing VS2 and VS Core, you can look [here](https://github.com/alex-s168/vs2-doc) for unofficial documentation.
+*If you are looking for documentation on utilizing VS2 and VS Core, you can look [here](https://github.com/alex-s168/vs2-doc) for unofficial documentation.*
 
 **1.18.2 Templates:**
 - [X] 1.18.2 Forge/Fabric Kotlin
